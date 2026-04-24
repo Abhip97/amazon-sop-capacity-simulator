@@ -17,6 +17,8 @@ A end-to-end **Sales & Operations Planning (S&OP) simulator** built on Amazon In
 > *"Which fulfilment centres will be overloaded in Q1 2025, by how much, and where is spare capacity available to absorb overflow?"*
 
 ---
+<img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/2327e6bb-a222-45d2-a529-7e11dec09876" />
+
 
 ## 🏗️ Architecture
 
